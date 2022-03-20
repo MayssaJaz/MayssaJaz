@@ -18,7 +18,7 @@ My name is Mayssa Jaziri and I am a Software Engineering Student who enjoys lear
 ---------------------------------------------------------------------------------------------------------------
 ## Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MayssaJazs&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MayssaJaz&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---------------------------------------------------------------------------------------------------------------
 ## Stats
