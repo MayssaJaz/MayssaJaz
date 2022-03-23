@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 [![Linkedin](https://img.shields.io/badge/-MayssaJaziri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayssa-jaziri-2bb4b81bb/) [![Gmail](https://img.shields.io/badge/-mayssa.jaziri-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jazirimayssa20@gmail.com
-) ![Count](https://visitor-badge.laobi.icu/badge?page_id=MayssaJaz.MayssaJaz) [![Github](https://img.shields.io/github/followers/MayssaJaz?label=Follow&style=social)](https://github.com/ShathaCodes) 
+) ![Count](https://visitor-badge.laobi.icu/badge?page_id=MayssaJaz.MayssaJaz) [![Github](https://img.shields.io/github/followers/MayssaJaz?label=Follow&style=social)](https://github.com/MayssaJaz) 
 
 My name is Mayssa Jaziri and I am a Software Engineering Student who enjoys learning new things :sparkles: !!
 
@@ -23,5 +23,5 @@ My name is Mayssa Jaziri and I am a Software Engineering Student who enjoys lear
 ---------------------------------------------------------------------------------------------------------------
 ## Stats
 
-![ShathaCodes GitHub stats](https://github-readme-stats.vercel.app/api?username=MayssaJaz&show_icons=true&theme=radical) 
+![MayssaJaz GitHub stats](https://github-readme-stats.vercel.app/api?username=MayssaJaz&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MayssaJaz&theme=radical)](https://git.io/streak-stats)
