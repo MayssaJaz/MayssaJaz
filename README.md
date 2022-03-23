@@ -10,7 +10,7 @@ My name is Mayssa Jaziri and I am a Software Engineering Student who enjoys lear
 **MayssaJaz/MayssaJaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a Digital image processing & Computer Vision project.
+- 🔭 I’m currently working on a Digital image processing & deep learning project.
 - 😀 I enjoy music, cooking and movies.
 - 💬 Ask me about anime.
 - ⚡ Fun fact: the first programming language I learned is Pascal.
