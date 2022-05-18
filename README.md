@@ -25,3 +25,4 @@ My name is Mayssa Jaziri and I am a Software Engineering Student who enjoys lear
 
 ![MayssaJaz GitHub stats](https://github-readme-stats.vercel.app/api?username=MayssaJaz&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MayssaJaz&theme=radical)](https://git.io/streak-stats)
+<img src="https://activity-graph.herokuapp.com/graph?username=MayssaJaz&hide_border=true&theme=redical"/><br><br>
