@@ -4,13 +4,13 @@
 [![Linkedin](https://img.shields.io/badge/-MayssaJaziri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayssa-jaziri-2bb4b81bb/) [![Gmail](https://img.shields.io/badge/-mayssa.jaziri-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jazirimayssa20@gmail.com
 ) ![Count](https://visitor-badge.laobi.icu/badge?page_id=MayssaJaz.MayssaJaz) [![Github](https://img.shields.io/github/followers/MayssaJaz?label=Follow&style=social)](https://github.com/MayssaJaz) 
 
-My name is Mayssa Jaziri and I am a Software Engineering Student who enjoys learning new things :sparkles: !!
+My name is Mayssa Jaziri and I am a Software Engineer who enjoys learning new things :sparkles: !!
 
 <!--
 **MayssaJaz/MayssaJaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a Digital image processing & deep learning project.
+- 🔭 I’m currently working on NLP & deep learning projects.
 - 😀 I enjoy music, cooking and movies.
 - 💬 Ask me about anime.
 - ⚡ Fun fact: the first programming language I learned is Pascal.
