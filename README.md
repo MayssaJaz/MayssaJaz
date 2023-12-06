@@ -1,12 +1,12 @@
 ## Hi there. My name is Mayssa Jaziri 👋
 
-[![Linkedin](https://img.shields.io/badge/-MayssaJaziri-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayssa-jaziri-2bb4b81bb/) [![Gmail](https://img.shields.io/badge/-mayssa.jaziri-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jazirimayssa20@gmail.com
+[![Linkedin](https://img.shields.io/badge/-MayssaJaziri-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayssa-jaziri-2bb4b81bb/) [![Gmail](https://img.shields.io/badge/-mayssa.jaziri-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jazirimayssa@outlook.com
 ) ![Count](https://visitor-badge.laobi.icu/badge?page_id=MayssaJaz.MayssaJaz) [![Github](https://img.shields.io/github/followers/MayssaJaz?label=Follow&style=for-the-badge&logo=github)](https://github.com/MayssaJaz) 
 
 
 
 My name is Mayssa Jaziri, and I am a Software Engineer who enjoys learning new things :sparkles: !!
-- 📭 How can you reach me ? : jazirimayssa20@gmail.com
+- 📭 How can you reach me ? : jazirimayssa@outlook.com
 
 - 🔭 I’m currently working on NLP & deep learning projects.
 - 😀 I enjoy music, cooking, and movies.
