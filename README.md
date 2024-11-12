@@ -6,7 +6,7 @@
 
 
 My name is Mayssa Jaziri, and I am a Software Engineer who enjoys learning new things :sparkles: !!
-- 📭 How can you reach me ? : jazirimayssa@outlook.com
+- 📭 How can you reach me ? : jazirimayssa20@gmail.com
 
 - 🔭 I’m currently working on NLP & deep learning projects.
 - 😀 I enjoy music, cooking, and movies.
